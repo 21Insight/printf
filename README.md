@@ -14,7 +14,7 @@ The format tags prototype is the following:
 	%[flags][length]specifier
 
 If the program runs successfully, the **return value** is the amount of chars printed.
-	
+
 | Specifier | Output |
 | ------------- | ------------- |
 | c  | Character  |
