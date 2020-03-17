@@ -38,7 +38,7 @@ If the program runs successfully, the **return value** is the amount of chars pr
 | #  | Prints 0, 0x and 0X for o, x and X specifiers, respectively. It doesn't print anything if the argument is zero | o, x, X |
 
 | Length | Description | Specifiers |
-| ------------- | ------------- | ------------- | 
+| ------------- | ------------- | ------------- |
 | l | Prints a long int or unsigned long int | i, d, o, u, x and X |
 | h | Prints a short int or unsigned short int | i, d, o, u, x and X |
 
