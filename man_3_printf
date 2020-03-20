@@ -105,6 +105,12 @@ The character \fI%\fR is followed by zero the following flags:
 
 #include ''holberton.h''
 
+/**
+* main - test
+*
+* Return: On success 0
+*/
+
 int main(void)
 
 {
